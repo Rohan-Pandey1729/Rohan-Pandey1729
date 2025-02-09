@@ -1,41 +1,18 @@
-# Hi there, I'm Rohan Pandey 👋
-
-## About Me
-
-I'm a passionate applied mathematician and machine learning enthusiast interested in open-source projects, reinforcement learning, rocketry, and cancer research. I love building intelligent systems, exploring reinforcement learning, and optimizing machine learning models for real-world applications.
+# 💫 About Me:
+- 🏫 I'm currently studying Applied and Computational Mathematical Sciences at the University of Washington<br>- 🔭 I’m currently working on improving my skills in machine and reinforcement learning.<br>- 🌱 I’m currently learning about High-powered Scientific Computing.<br>- 👯 I’m looking to collaborate on open-source projects that make a difference.<br>- 💬 Ask me about math, AI, or anything tech-related!<br>- ⚡ Fun fact: I love playing Tennis, Monopoly, and flying rockets!
 
 
-- 🔭 I’m currently working on improving my skills in machine and reinforcement learning.
-- 🌱 I’m currently learning about High-powered Scientific Computing.
-- 👯 I’m looking to collaborate on open-source projects that make a difference.
-- 💬 Ask me about math, AI, or anything tech-related!
-- ⚡ Fun fact: I love playing Tennis, Monopoly, and flying rockets!
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohanpandeymath/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rpande@uw.edu) 
 
-## Skills
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rohan-Pandey1729&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Pandey1729&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Pandey1729&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- Programming Languages: Python, Java, C++
-- Web Development: HTML, CSS, React, Node.js
-- Databases: MySQL, MongoDB, PostgreSQL
-- Tools: Git, Docker, Bash, Slurm
-- Other: Machine Learning, Reinforcement Learning, Data Analysis, Mathematical Modeling
+---
+[![](https://visitcount.itsvg.in/api?id=Rohan-Pandey1729&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Projects
-
-- [Project 1](https://github.com/Rohan-Pandey1729/tdmpc2): In our project, we explored whether we could distill the planning process in model-based RL into the policy network. Instead of using a dynamics and reward model to sample future trajectories, we aimed to mimic this planning with just a neural network as the policy, eliminating the need for computationally intensive planning.
-
-- [Project 2](https://github.com/Rohan-Pandey1729/NREIP-Blade-Element-Theory-ML): A MATLAB/Python project using RL to optimize aerodynamic efficiency with a Simulink-based physics model, DDPG agent, and airfoil analysis.
-
-- [Project 3](https://github.com/Rohan-Pandey1729/Telemetry_System): Using Blender and a telemetry system I developed, I created a rocket animation that updates based on sensor data collected and plotted by a C++ script of a rocket during its flight.
-
-## GitHub Stats
-
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan-Pandey1729&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Pandey1729&layout=compact&theme=radical)
-
-## Connect with me 📫
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohanpandeymath)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpande@uw.edu)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
