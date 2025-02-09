@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🏫 I'm currently studying Applied and Computational Mathematical Sciences at the University of Washington<br>- 🔭 I’m currently working on improving my skills in machine and reinforcement learning.<br>- 🌱 I’m currently learning about High-powered Scientific Computing.<br>- 👯 I’m looking to collaborate on open-source projects that make a difference.<br>- 💬 Ask me about math, AI, or anything tech-related!<br>- ⚡ Fun fact: I love playing Tennis, Monopoly, and flying rockets!
+- 🏫 I study Applied and Computational Mathematical Sciences at the University of Washington<br>- 🔭 I’m currently working on improving my skills in machine and reinforcement learning.<br>- 🌱 I'm expanding my knowledge in High-powered Scientific Computing.<br>- 👯 I’m looking to collaborate on open-source projects that make a difference.<br>- 💬 Ask me about math, AI, or anything tech-related!<br>- ⚡ Fun fact: I love playing Tennis, Monopoly, and flying rockets!
 
 
 ## 🌐 Socials:
